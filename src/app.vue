@@ -30,11 +30,11 @@ export default {
 </script>
 
 <style>
-body{background-color: #eee}
-*{box-sizing: border-box;}
-.b{border: 2px solid #ccc; background-color: #fff;}
-.p{padding: 1em;}
-.fl{float: left;}
-.w50{width: 50%;}
-.w33{width: 33%;}
+  body{background-color: #eee}
+  *{box-sizing: border-box;}
+  .b{border: 2px solid #ccc; background-color: #fff;}
+  .p{padding: 1em;}
+  .fl{float: left;}
+  .w50{width: 50%;}
+  .w33{width: 33%;}
 </style>

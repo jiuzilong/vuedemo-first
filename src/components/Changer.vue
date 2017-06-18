@@ -27,8 +27,6 @@ export default {
   },
   methods:{
     inputChange:function(ev){
-      //console.log(this.content,this.fontSize,this.color);
-      console.log(this.jsonStr);
       this.$dispatch("bindInputChange",this.jsonStr);
       //this.$emit("inputsChange","dssdf")
     },
