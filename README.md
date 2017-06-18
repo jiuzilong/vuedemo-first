@@ -9,7 +9,7 @@
 
 * [下载地址](https://github.com/jiuzilong/vuedemo-first/archive/master.zip)
 
-##步骤：
+## 步骤：
 1. 安装nodejs插件
 ```
  npm install;
