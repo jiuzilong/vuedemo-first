@@ -4,7 +4,7 @@
 * [原生JS版本](https://jiuzilong.github.io/reactstudy-first/src/testC3.html)
 
 * [react实现版本](https://jiuzilong.github.io/reactstudy-first/src/testC3_react.html)
-* [vue实现版本](https://jiuzilong.github.io/vuedemo-first-first/index.html)
+* [vue实现版本](https://jiuzilong.github.io/vuedemo-first/index.html)
 
 
 * [下载地址](https://github.com/jiuzilong/vuedemo-first/archive/master.zip)
